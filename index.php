@@ -12,12 +12,16 @@
 <body>
     <div class="container">
         <h1>Hemant Bajpai</h1>
-        <img src='images/profile.jpg' alt="Hemant Bajpai">
+        <img src='images/profile.png' alt="Hemant Bajpai">
         <h2>About Me</h2>
-        <p>My name is Hemant Bajpai. I recently moved to seattle from boston. I am from mechanical background doing job in software industry. I am pursuing masters from Harvard extension school and this is my 10th course.</p>
+        <p>
+	    My name is Hemant Bajpai. I recently moved to Seattle from Boston. I am from mechanical engineering background doing job in software industry.
+	    I am pursuing masters from Harvard extension school and this is my 10th course. I love watching sports mainly cricket, tennis and NFL. 
+	    I am a huge Nadal and patriots fan. I hope Nadal wins more grandslams and patriots wins more superbowls.
+	</p>
     </div>
     <div>
-        <h3>Quote</h3>
+        <h3>Random Quote</h3>
         <p class="quote">
             <?php 
 		$quotes = [
